@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://usememos.com/"><img height="100px" alt="logo" src="https://usememos.com/logo.webp"/></a>
+<a href="https://usememos.com/"><img height="100px" alt="logo" src="https://usememos.com/logo.png"/></a>
 </p>
 
 <p align="center"><b>Memos</b>部署于Replit，一个轻量级的自托管备忘录中心。开源和永久免费。</p>

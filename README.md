@@ -33,8 +33,8 @@ zip memeos-db.zip -qr db/*
 mv memos memos.bk
 
 # 安装最新版（本项目构建的最新版）
-bash main.sh
+bash update.sh
 
 # 或者指定版本（本项目构建的某个版本）
-bash main.sh v0.12.2
+bash update.sh v0.15.0
 ```

@@ -14,12 +14,27 @@
 <a href="https://t.me/+-_tNF1k70UU4ZTc9">Telegram</a>
 </p>
 
+
 ------------------------------
 一键搭建脚本 (环境选择`Bash` 或 `Blank Repl`)
 ```
 bash <(curl -s https://raw.githubusercontent.com/aizhiqian/memos-on-replit/main/install.sh)
 ```
-一键更新脚本
-```
-bash <(curl -s https://raw.githubusercontent.com/aizhiqian/memos-on-replit/main/update.sh)
+
+------------------------------
+**升级一时爽，数据火葬场！！！！注意备份数据**
+
+```bash
+# 先备份数据
+zip memeos-db.zip -qr db/*
+# 然后下载该数据，这个就是你的数据库
+
+# 备份旧的memos
+mv memos memos.bk
+
+# 安装最新版（本项目构建的最新版）
+bash main.sh
+
+# 或者指定版本（本项目构建的某个版本）
+bash main.sh v0.12.2
 ```

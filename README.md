@@ -5,7 +5,7 @@
 <p align="center"><b>Memos</b>部署于Replit，一个轻量级的自托管备忘录中心。开源和永久免费。</p>
 
 <p align="center">
-<a href="https://github.com/aizhiqian/halo-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/usememos/memos.svg?style=flat-square&include_prereleases" /></a>
+<a href="https://github.com/woisshenbiabng/halo-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/usememos/memos.svg?style=flat-square&include_prereleases" /></a>
 
 <br />
 <a href="https://blog.aizhiqian.eu.org/">博客</a>
@@ -18,7 +18,7 @@
 ------------------------------
 一键搭建脚本 (环境选择`Bash` 或 `Blank Repl`)
 ```
-bash <(curl -s https://raw.githubusercontent.com/aizhiqian/memos-on-replit/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/woisshenbiabng/memos-on-replit/main/install.sh)
 ```
 
 ------------------------------
